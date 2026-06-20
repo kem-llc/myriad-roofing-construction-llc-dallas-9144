@@ -1,0 +1,326 @@
+{
+  "business": {
+    "name": "Myriad Roofing & Construction LLC",
+    "shortName": "Myriad Roofing",
+    "tagline": "Dallas Roofing Excellence Built on Trust and Craftsmanship",
+    "niche": "Roofer",
+    "phone": "(214) 417-9144",
+    "address": "6060 N Central Expy Suite: 500, Dallas, TX 75206",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 7am–6pm, Sat: 8am–2pm",
+    "ctaLabel": "Get a Free Roof Inspection",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Myriad Roofing & Construction LLC | Premier Roofing Contractor in Dallas, TX",
+    "description": "Myriad Roofing & Construction LLC offers expert roof repair, replacement, and installation in Dallas, TX. Get a free inspection today."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Roofing Experts",
+      "headline": "Protecting Your Home with Superior Roofing Solutions",
+      "subheadline": "From minor repairs to full replacements, we deliver quality craftsmanship and peace of mind.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Services"
+    },
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Homes Served"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Quality You Can Trust",
+        "title": "Durable Roofing Built for Texas Weather",
+        "body": "Our team uses premium materials and proven techniques to ensure your roof withstands hail, wind, and extreme heat.",
+        "bullets": [
+          "Impact-resistant shingles",
+          "Proper ventilation systems",
+          "Leak-proof installations"
+        ],
+        "reverse": false,
+        "cardLabel": "Why Choose Us",
+        "cardTitle": "Warranty Protection",
+        "cardBody": "Every project comes with a workmanship warranty and manufacturer guarantees for your peace of mind."
+      },
+      {
+        "eyebrow": "Seamless Process",
+        "title": "From Inspection to Completion, We Handle It All",
+        "body": "We guide you through every step with clear communication and minimal disruption to your daily life.",
+        "bullets": [
+          "Free detailed inspection",
+          "Transparent pricing",
+          "Efficient project management"
+        ],
+        "reverse": true,
+        "cardLabel": "Our Promise",
+        "cardTitle": "On-Time Completion",
+        "cardBody": "We respect your schedule and aim to finish every project on time, every time."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose Myriad Roofing",
+    "whyChooseUs": [
+      {
+        "title": "Local Expertise",
+        "description": "We understand Dallas building codes and weather challenges, ensuring your roof is built to last."
+      },
+      {
+        "title": "Premium Materials",
+        "description": "We partner with top manufacturers to offer shingles, metal, and tile options that combine durability with curb appeal."
+      },
+      {
+        "title": "Transparent Communication",
+        "description": "You receive detailed estimates, progress updates, and clear answers to all your questions."
+      },
+      {
+        "title": "Exceptional Craftsmanship",
+        "description": "Our skilled crew takes pride in meticulous work, from flashing details to clean finish lines."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Myriad Roofing replaced our entire roof after a storm. The team was professional, on time, and the quality is outstanding.",
+        "author": "Sarah M.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "From the inspection to the final walkthrough, everything was explained clearly. I felt confident in their expertise.",
+        "author": "James T.",
+        "role": "Highland Park Resident"
+      },
+      {
+        "quote": "They repaired a leak that two other companies couldn't fix. Fair price and excellent workmanship.",
+        "author": "Linda R.",
+        "role": "Oak Lawn Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Protect Your Home?",
+      "subheadline": "Schedule your free roof inspection today and experience the Myriad difference.",
+      "primaryCta": "Call (214) 417-9144",
+      "secondaryCta": "Request a Callback"
+    }
+  },
+  "servicesPage": {
+    "intro": "Myriad Roofing & Construction LLC offers a full range of roofing services tailored to Dallas homeowners. Whether you need a quick repair or a complete replacement, our certified team delivers quality and value."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Roof Repair",
+      "shortDescription": "Fast, reliable fixes for leaks, storm damage, and wear.",
+      "longDescription": "We diagnose and repair all types of roof issues, from missing shingles to flashing failures. Our team uses high-quality materials to restore your roof's integrity and extend its lifespan.",
+      "benefits": [
+        "Prevents further damage",
+        "Extends roof life",
+        "Cost-effective solution",
+        "Quick turnaround"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "Thorough assessment of damage and underlying issues."
+        },
+        {
+          "title": "Repair Plan",
+          "description": "Detailed proposal with transparent pricing and timeline."
+        },
+        {
+          "title": "Execution",
+          "description": "Professional repair with cleanup and final inspection."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a typical roof repair take?",
+          "answer": "Most repairs are completed within a day, depending on the extent of damage."
+        },
+        {
+          "question": "Do you offer emergency repairs?",
+          "answer": "Yes, we provide prompt emergency services for urgent leaks and storm damage."
+        }
+      ],
+      "slug": "roof-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Roof Replacement",
+      "shortDescription": "Complete roof removal and installation with top-tier materials.",
+      "longDescription": "When your roof has reached the end of its life, our replacement service ensures a seamless transition. We handle everything from tear-off to final cleanup, using premium shingles, metal, or tile.",
+      "benefits": [
+        "Enhanced curb appeal",
+        "Improved energy efficiency",
+        "Long-term protection",
+        "Warranty coverage"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "Discuss options, materials, and budget."
+        },
+        {
+          "title": "Removal",
+          "description": "Safe removal of old roofing and deck inspection."
+        },
+        {
+          "title": "Installation",
+          "description": "Expert installation with attention to detail and ventilation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What roofing materials do you recommend?",
+          "answer": "We offer asphalt shingles, metal, and tile, and help you choose based on climate and style."
+        },
+        {
+          "question": "How long does a roof replacement take?",
+          "answer": "Typically 2-4 days, depending on roof size and complexity."
+        }
+      ],
+      "slug": "roof-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "New Roof Installation",
+      "shortDescription": "Professional installation for new construction or additions.",
+      "longDescription": "For new homes or building additions, we design and install a roof that meets structural requirements and aesthetic goals. Our team coordinates with builders and ensures code compliance.",
+      "benefits": [
+        "Custom design",
+        "Modern materials",
+        "Energy-efficient options",
+        "Builder-friendly process"
+      ],
+      "process": [
+        {
+          "title": "Design",
+          "description": "Collaborate on style, color, and material selection."
+        },
+        {
+          "title": "Permitting",
+          "description": "Handle all necessary permits and approvals."
+        },
+        {
+          "title": "Installation",
+          "description": "Precision installation with quality checks throughout."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you work with custom home builders?",
+          "answer": "Yes, we partner with builders to ensure timely, coordinated installations."
+        },
+        {
+          "question": "Can you install a roof on a complex architectural design?",
+          "answer": "Absolutely, our team has experience with various roof shapes and slopes."
+        }
+      ],
+      "slug": "new-roof-installation"
+    },
+    {
+      "icon": "04",
+      "title": "Storm Damage Restoration",
+      "shortDescription": "Comprehensive repair and insurance claim assistance after storms.",
+      "longDescription": "After hail, wind, or heavy rain, we assess damage and work with your insurance to restore your roof. We provide documentation, estimates, and expert repairs to get your home back to normal.",
+      "benefits": [
+        "Insurance claim support",
+        "Fast response",
+        "Thorough damage assessment",
+        "Quality restoration"
+      ],
+      "process": [
+        {
+          "title": "Emergency Tarping",
+          "description": "Immediate protection to prevent further damage."
+        },
+        {
+          "title": "Inspection & Documentation",
+          "description": "Detailed report for insurance claims."
+        },
+        {
+          "title": "Restoration",
+          "description": "Full repair or replacement with minimal hassle."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will my insurance cover the damage?",
+          "answer": "Most policies cover storm damage. We help document and communicate with your adjuster."
+        },
+        {
+          "question": "How quickly can you respond after a storm?",
+          "answer": "We prioritize storm calls and often respond within 24 hours."
+        }
+      ],
+      "slug": "storm-damage-restoration"
+    }
+  ],
+  "about": {
+    "headline": "Dallas Roofing Experts Committed to Quality",
+    "mission": "Our mission is to provide Dallas homeowners with durable, beautiful roofs through honest service and exceptional workmanship.",
+    "story": [
+      "Founded by a team of roofing veterans, Myriad Roofing & Construction LLC was built on the belief that every home deserves a roof that's both strong and stunning. We saw too many homeowners get subpar work and empty promises, so we set out to change that. Starting with just a few tools and a commitment to doing things right, we've grown into a trusted name in Dallas roofing.",
+      "Today, we serve neighborhoods from Lakewood to Highland Park, treating every home like our own. Our team continues to invest in training, materials, and technology to deliver roofs that stand up to Texas weather. We're proud of the relationships we've built and the peace of mind we provide."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years of Excellence"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say, with transparent pricing and honest recommendations."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "Every nail, shingle, and seal is placed with precision and care."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction drives everything we do, from first call to final walkthrough."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to serve and support the Dallas area we call home."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Roof Estimate Today",
+    "subheadline": "Call us or fill out the form below. We'll respond within 24 hours.",
+    "primaryCta": "Call (214) 417-9144",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Oak Lawn",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Roofer",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2144179144",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
